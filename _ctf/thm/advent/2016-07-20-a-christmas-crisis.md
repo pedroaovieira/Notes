@@ -6,7 +6,7 @@ description: Web Exploitation - Cookies
 
 ## Video
 
-{% include video id="BJF84oWHmok&ab" provider="youtube" %}
+{% include video id="BJF84oWHmok" provider="youtube" %}
 
 
 ## Rooms
