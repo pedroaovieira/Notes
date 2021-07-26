@@ -1,5 +1,12 @@
 ---
-description: Web Exploitation - Cookies
+title: "Post: Web Exploitation - Cookies"
+categories:
+  - CTF
+tags:
+  - CFT
+  - THM
+  - Web Exploitation
+  - Cookies
 ---
 
 # A Christmas Crisis
