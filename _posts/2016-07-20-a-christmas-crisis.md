@@ -11,6 +11,7 @@ toc_icon: "cog"
 title: "Post: Web Exploitation - Cookies"
 categories:
   - CTF
+  - THM
 tags:
   - CFT
   - THM
