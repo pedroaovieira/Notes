@@ -1,7 +1,13 @@
 ---
+sidebar:
+  nav: "docs"
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+
+
+
 title: "Post: Web Exploitation - Cookies"
 categories:
   - CTF
